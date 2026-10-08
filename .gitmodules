@@ -1,0 +1,3 @@
+[submodule "DQA"]
+	path = DQA
+	url = https://gitverse.ru/data_quality_audit/DQA
